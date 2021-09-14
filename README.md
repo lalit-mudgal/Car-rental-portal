@@ -1,0 +1,2 @@
+# Car-rental-portal
+Car rental portal using PHL and MySQL is a real world working project, in this we can book the car for rent as per requirements and that too on the minimal prices. Here two different thing happens like the user can visit the site and book the car for rent and the portal or website holder can see the request in the database. Ant also it shows if any car is not available for bookings now.
